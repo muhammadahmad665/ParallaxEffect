@@ -13,7 +13,6 @@
 		E21BB1E42919AE9200514EA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21BB1E22919AE9200514EA5 /* Main.storyboard */; };
 		E21BB1E62919AE9300514EA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E21BB1E52919AE9300514EA5 /* Assets.xcassets */; };
 		E21BB1E92919AE9300514EA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21BB1E72919AE9300514EA5 /* LaunchScreen.storyboard */; };
-		E21BB1F12919B53700514EA5 /* CustomHraderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21BB1F02919B53600514EA5 /* CustomHraderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		E21BB1E52919AE9300514EA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E21BB1E82919AE9300514EA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E21BB1EA2919AE9300514EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E21BB1F02919B53600514EA5 /* CustomHraderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomHraderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				E21BB1E52919AE9300514EA5 /* Assets.xcassets */,
 				E21BB1E72919AE9300514EA5 /* LaunchScreen.storyboard */,
 				E21BB1EA2919AE9300514EA5 /* Info.plist */,
-				E21BB1F02919B53600514EA5 /* CustomHraderView.swift */,
 			);
 			path = "Parallax Effect";
 			sourceTree = "<group>";
@@ -142,7 +139,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E21BB1E12919AE9200514EA5 /* ViewController.swift in Sources */,
-				E21BB1F12919B53700514EA5 /* CustomHraderView.swift in Sources */,
 				E21BB1DD2919AE9200514EA5 /* AppDelegate.swift in Sources */,
 				E21BB1DF2919AE9200514EA5 /* SceneDelegate.swift in Sources */,
 			);
