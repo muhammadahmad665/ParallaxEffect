@@ -1,3 +1,20 @@
+The **ParallaxEffect** repository is designed to demonstrate the implementation of a parallax scrolling effect in iOS applications using Swift. This repository includes code examples and explanations for creating a visually appealing parallax effect, often used in animations and user interface design for iPhone applications.
+
+### Key Features:
+- **Parallax Scrolling:** Implements a smooth parallax scrolling effect, enhancing the visual experience.
+- **Swift Language:** Written entirely in Swift, making it easy to integrate and customize for iOS projects.
+- **TableView Integration:** Demonstrates the use of parallax effects within UITableView, a common UI component.
+
+### Topics Covered:
+- Animation
+- iOS Development
+- Parallax Scrolling Effect
+- Swift Programming
+- UITableView Customization
+
+Feel free to explore the repository [here](https://github.com/muhammadahmad665/ParallaxEffect) and star it if you find it useful. Contributions and feedback are welcome!
+
+
 # ParallaxEffect
 
 OLD Version 0.1
